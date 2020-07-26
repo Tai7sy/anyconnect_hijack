@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AnyConnectF.iml" filepath="$PROJECT_DIR$/AnyConnectF.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnyConnectF.iml" filepath="$PROJECT_DIR$/.idea/modules/AnyConnectF.iml" group="AnyConnectF" />
+      <module fileurl="file://$PROJECT_DIR$/anyconnect_hijack.iml" filepath="$PROJECT_DIR$/anyconnect_hijack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="AnyConnectF/app" />
     </modules>
   </component>
 </project>
